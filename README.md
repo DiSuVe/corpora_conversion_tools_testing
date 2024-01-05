@@ -1,2 +1,2 @@
-# corpora_conversion_tools
-Python tools to convert our corpora to other formats (in particular, vertical format of SketchEngine)
+# Corpora conversion tools
+This repository will contain Python tools to convert our corpora to other formats (in particular, the vertical format of SketchEngine).
