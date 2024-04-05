@@ -12,7 +12,7 @@ import xml.etree.ElementTree as ET
 from metadata import json_to_sgml
 
 
-def docx2txt(file):
+def docx_2txt(file):
     """
     Converts a docx file to a txt file.
 
