@@ -7,22 +7,8 @@ import json
 import aspose.words as aw
 import re
 from pdfminer.high_level import extract_text
-from bs4 import BeautifulSoup as bs
 import xml.etree.ElementTree as ET
 from metadata import json_to_sgml
-
-
-def docx_2txt(file):
-    """
-    Converts a docx file to a txt file.
-
-    Args:
-        file (str): The path to the docx file.
-
-    Returns:
-        str: The content of the converted txt file.
-    """
-    return docx2txt.process(file)
 
 
 class Converter2vertical:
@@ -40,7 +26,7 @@ class Converter2vertical:
         self.inpath = inpath
         self.outpath = outpath
         self.extensions = ['.docx', '.doc', '.xml', '.pdf', '.txt']
-        self.extensions_dict = {'.docx': docx2txt,
+        self.extensions_dict = {'.docx': self.docx_2txt,
                                 '.doc': self.doc2txt,
                                 '.xml': self.xml2txt,
                                 '.pdf': self.pdf2txt, '.txt': lambda x: x.read()}
@@ -147,6 +133,18 @@ class Converter2vertical:
         tree = ET.parse(file)
         root = ET.tostring(tree.getroot(), encoding='utf-8', method='text')
         return root.decode('utf-8')
+
+    def docx_2txt(self, file):
+        """
+        Converts a docx file to a txt file.
+
+        Args:
+            file (str): The path to the docx file.
+
+        Returns:
+            str: The content of the converted txt file.
+        """
+        return docx2txt.process(file)
 
     def txt2vertical(self, text):
         """
