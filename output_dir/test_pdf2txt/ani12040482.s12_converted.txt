@@ -1,0 +1,57 @@
+The article, “Impact of Changes in Owner Leaving Pattern on Separation-Related Behaviour in 
+Pet Dogs in the UK” investigated whether the prevalence of SRB in dogs changed with changes 
+in dog management during and after COVID lockdowns. The authors found that owners 
+reported that nearly 10% of dogs that did not show SRB behaviors prior to lockdown were 
+reported to show SRB after lockdown, and the greater the change in the dog’s routine, the 
+greater chance they had of showing new SRB. 
+
+I have minor comments below and a few larger comments: 
+
+P1 L29 and P3 L112 the present tense “reduce” sounds strange to me here. I would suggest 
+“reduced” since you are looking at changes that have already occurred. 
+
+P6 L176 I am assuming you excluded dogs that were not left alone in February (or were there 
+none?) 
+
+P10 L307-308 Could you make this a positive statement to show highlight the impact of amount 
+of change on SRB: Dogs whose days left alone per week increased the most…If the data support 
+that angle, I think it’s a stronger statement than what is written. 
+
+Larger issues: 
+I would like to see the authors address a few different angles in the discussion 
+
+1.  That dogs showing SRB prior to lockdown were more likely to show it after. Suggests the 
+behavior is fairly robust and dogs having shown it at one point continue to be at risk 
+(without knowing what interventions were taken) 
+
+2.  Can you address the dogs that improved between Feb and Oct? You report the number 
+of new dogs showing SRB but can you report on dogs that went the other way? What 
+was the actual # and %? This comparison seems essential—if some dogs gets worse but 
+some get better, than the argument that changes due to COVID might bring about new 
+SRB becomes weaker. It seems you have compared within dogs that showed SRB in 
+baseline and other models for dogs that did not. Seems a comparison between SRB- 
+(baseline) → SRB + (post lockdown) and SRB + (baseline) → SRB- (post lockdown) dogs is 
+critical and missing.  
+
+3.  One of the challenges in this is we don’t know background rates of change for dogs with 
+
+SRB. That is, would the same % of dogs changed (in either direction) regardless of 
+changes in owner schedules? We might see some dogs become sensitized over time and 
+develop SRB (or something else changes in their life to precipitate it), while others might 
+habituate or their behavior undergo extinction. As such, we can’t say for certain that 
+these changes are due to changes in owner schedule. You note that the pseudo-R2 was 
+small but I think you could go into more details and note the possibility that it was 
+unrelated too.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+However, your results that the greater the change → the greater the new risk of SRB 
+does lend support to the idea that this change in management might be a factor. I 
+would suggest highlighting and discussing this outcome more.  
+
+ 
+

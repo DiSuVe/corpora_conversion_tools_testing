@@ -1,0 +1,83 @@
+This is a well written and clear manuscript which would be of interest to academics, practitioners and dog owners.
+
+Thank you for your comments and for the constructive feedback. We have addressed each one below.
+
+
+
+Abstract/simple summary: These are clear and well detailed. My only suggestion is that making it clear why February and October were chosen as survey-points may be beneficial. This is discussed later on but highlighting here would be useful.
+
+Thank you, in line 16 and 32 we have added “when restrictions had eased” to explain why we surveyed in October 2020. 
+
+
+
+Introduction: This is clear and in general provides a good background to the topic (bar a couple of points where more expansion would be beneficial).
+
+Aa little more mention of issues of SRBs from owner perspective (e.g. noise complaints and issues with housing; property damage; decline of human-pet bond) could be beneficial (line 56-57). 
+
+Thank you, we have now expanded this to read: “In addition to being a welfare concern for the dog, SRBs are often unwanted or problematic for the owner and/or neighbours such as in the case of excessive vocalisation, which may lead to noise complaints, or in terms of house soiling and destruction of property, which may be particularly problematic for people living in rental accommodation. In such cases, these issues may increase risk of relinquishment [7]” (see new lines 56-59)
+
+
+
+It may be helpful to discuss why there is poor owner adherence to programmes to reduce SRB (Line 66-67). 
+
+The following text has now been added beginning at line 69: “Whilst the precise reasons for poor adherence to advice for preventing or reducing SRBs have not been documented, it is at least partly attributed to the relative difficulty of adhering to specific aspects of these programmes, with the easier pieces of advice followed more often than the parts that take more commitment and consideration [13].”
+
+
+
+I wasn't sure if line 79-80 was needed- about dogs having returned to pre-pandemic pattern, I think it is a little dismissive of your own research which is valuable and applicable beyond the pandemic. 
+
+Thank you for your comment, I think we were pre-judging that people would think it was just another covid paper, and we are glad to see you agree with us that it is valuable beyond the pandemic. This line has now been deleted. 
+
+
+
+Line 96-97- some more detail on the findings of these various surveys would be beneficial similarly to Bowen's study, just so provide a clear background/discussion of literature setting scene for your study.
+
+The findings were all extremely similar, so it felt quite repetitive to discuss them all. We actually had more detail in an early draft then trimmed it out. However, we have now added some more of this detail as requested (see lines 100 to 112), whilst trying to limit repetition. 
+
+
+
+Methods: This is generally well-detailed. 
+
+It may be beneficial to make it clear why cut off of 'at least 5 mins' was used, e.g justification for this/why this time duration used.
+
+We presumed that at some point owners would pop out of the house, to take out the bin or go to the garage etc.. Such leaving events are likely to be experienced differently by some dogs, as the owners won’t likely give off the same cues as when they leave for an extended period of time, such as picking up house keys, or leaving through a different door. This has been explained now in lines 179-83.
+
+Line 131: There was an error with referencing wanted to flag.
+
+Thank you, this seemed ok when we submitted it, but must have gone wrong when uploaded but we’ve corrected it now.
+
+Study periods: It may be useful to spell out a little more here why these survey periods were chosen here, this is covered elsewhere but think could be made clearer here and earlier.
+
+We’ve amended description of the study periods in a few places, including between lines 132-142, which we hope addresses this query now. 
+
+Figure 1- Perhaps just double-check this is referred to in the text. Think either way this figure would benefit a bit of context on why was included/what was showing in context of this study as currently info is a bit generic and didn't totally tie into people's working from home etc.
+
+One of the other reviewers also commented on this and asked for Figure 1 and much of the text to be moved to the supplemental material, so this has been done now. It’s also further explained in the supplementary material how it links to working and in lines 140-142 in the main text which now explains that many businesses were open again in October. 
+
+
+
+Results: These were generally well-detailed with clear layout considering scope of results.
+
+However, I don't think the figures were referred to in the text (unless that was the errors highlighted below?)
+
+This was due to the errors you mentioned below. We used the Word automatic referencing and somehow that seemed to get broken when the document was uploaded to the online system. It’s been done manually now. 
+
+
+
+There were some errors where reference source not found, which would want to look into (line 246; 265; 274; 292; 305; 323 etc).
+
+See above.
+
+
+
+Line 366-369= I'm not sure it's totally fair to interpret this (the dog not always bringing toy when greeting them) as an anthropomorphic interpretation on the part of the owner- the anthropomorphic interpretation seems to be from authors of manuscript not owner? They do not seem to state dog is favouring them less unless text was omitted here.
+
+Agreed, this was how we interpreted why the owner was reporting this change. We have rephrased this section now.
+
+
+
+Discussion: The results are appropriately discussed though perhaps more discussion about further study would be beneficial. I felt the discussion about changes in greeting behaviour as an early indicator was interesting and could be expanded.
+
+Some more detail on the application of the findings to practitioners/owners would be beneficial. I do think this is of interest to a range of stakeholders.
+
+Thank you for your review. We have expanded the discussion to address these points, however due to another reviewer saying the paper was already too long, we have kept this brief. A section detailing relevance to practitioners has been added to lines 545-551.

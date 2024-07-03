@@ -101,7 +101,10 @@ class Converter2vertical:
         Returns:
             str: The text content of the converted txt file.
         """
-        return aw.Document(file).get_text()
+        doc_text = aw.Document(file)
+        text = doc_text.get_text().splitlines()
+        clean_text = '\n'.join(text[1:-4])
+        return clean_text
 
     def pdf2txt(self, file):
         """

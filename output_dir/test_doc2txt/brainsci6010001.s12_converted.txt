@@ -1,0 +1,59 @@
+ HYPERLINK "input_dir//user/login" Login  HYPERLINK "input_dir//user/register" Register  HYPERLINK "input_dir//user/manuscripts/upload" Submit
+ HYPERLINK "https://susy.mdpi.com"  
+ HYPERLINK "https://www.mdpi.com/about/journals/" \t "_blank" Journals
+ HYPERLINK "https://www.mdpi.com/guidelines" \t "_blank" Information 
+ HYPERLINK "https://www.mdpi.com/authors" \t "_blank" For Authors
+ HYPERLINK "https://www.mdpi.com/reviewers" \t "_blank" For Reviewers
+ HYPERLINK "https://www.mdpi.com/editors" \t "_blank" For Editors
+ HYPERLINK "https://www.mdpi.com/librarians" \t "_blank" For Librarians
+ HYPERLINK "https://www.mdpi.com/publishing_service" \t "_blank" For Publishers
+ HYPERLINK "https://www.mdpi.com/societies" \t "_blank" For Societies
+ HYPERLINK "https://www.mdpi.com/about/apc" \t "_blank" Article Processing Charges
+ HYPERLINK "https://www.mdpi.com/about/openaccess" \t "_blank" Open Access Policy
+ HYPERLINK "https://www.mdpi.com/about/memberships" \t "_blank" Institutional Open Access Program
+ HYPERLINK "https://www.mdpi.com/editorial_process" \t "_blank" Editorial Process
+ HYPERLINK "https://www.mdpi.com/awards" \t "_blank" Awards
+ HYPERLINK "https://www.mdpi.com/authors/english" \t "_blank" English Editing Service
+ HYPERLINK "javascript:void(0);" Initiatives 
+ HYPERLINK "https://sciforum.net" \t "_blank" Sciforum
+ HYPERLINK "https://www.mdpi.com/books" \t "_blank" MDPI Books
+ HYPERLINK "https://www.preprints.org" \t "_blank" Preprints
+ HYPERLINK "https://www.scilit.net" \t "_blank" Scilit
+ HYPERLINK "https://sciprofiles.com" \t "_blank" SciProfiles
+ HYPERLINK "https://encyclopedia.pub" \t "_blank" Encyclopedia
+ HYPERLINK "https://jams.pub" \t "_blank" JAMS
+ HYPERLINK "https://www.mdpi.com/about/proceedings" \t "_blank" Proceedings Series
+ HYPERLINK "https://www.mdpi.com/about/" \t "_blank" About
+ HYPERLINK "input_dir//switch/desktop_mobile_layout" \o "Switch to desktop view"  HYPERLINK "input_dir//user/manuscripts/upload" Submit
+ HYPERLINK "input_dir//user/login" Login  HYPERLINK "javascript:void(0);" 
+Error 404 - File not found
+The webpage you are looking could not be found.
+The URL may have been incorrectly typed, or the page may
+have been moved into another part of the mdpi.com site.
+ HYPERLINK "input_dir//user/myprofile" Return to the user page
+ HYPERLINK "https://www.mdpi.com/about/contact" Contact
+© 1996-2022 MDPI (Basel, Switzerland) unless otherwise stated 
+ HYPERLINK "javascript:void(0);" \o "The statements, opinions and data contained in the journals are solely those of the individual authors and contributors and not of the publisher and the editor(s)." Disclaimer  HYPERLINK "https://www.mdpi.com/about/terms-and-conditions" \t "_blank" Terms and Conditions  HYPERLINK "https://www.mdpi.com/about/privacy" \t "_blank" Privacy Policy
+ HYPERLINK "https://www.mdpi.com" \t "_blank" MDPI
+ HYPERLINK "https://www.mdpi.com/about/journals" \t "_blank" Journals
+ HYPERLINK "https://www.mdpi.com/guidelines" Information 
+ HYPERLINK "https://www.mdpi.com/authors" \t "_blank" For Authors
+ HYPERLINK "https://www.mdpi.com/reviewers" \t "_blank" For Reviewers
+ HYPERLINK "https://www.mdpi.com/editors" \t "_blank" For Editors
+ HYPERLINK "https://www.mdpi.com/librarians" \t "_blank" For Librarians
+ HYPERLINK "https://www.mdpi.com/publishing_service" \t "_blank" For Publishers
+ HYPERLINK "https://www.mdpi.com/societies" \t "_blank" For Societies
+ HYPERLINK "https://www.mdpi.com/about/apc" \t "_blank" Article Processing Charges
+ HYPERLINK "https://www.mdpi.com/about/openaccess" \t "_blank" Open Access Policy
+ HYPERLINK "https://www.mdpi.com/about/memberships" \t "_blank" Institutional Open Access Program
+ HYPERLINK "https://www.mdpi.com/editorial_process" \t "_blank" Editorial Process
+ HYPERLINK "https://www.mdpi.com/awards" \t "_blank" Awards
+ HYPERLINK "https://www.mdpi.com/authors/english" \t "_blank" English Editing Service
+ HYPERLINK "javascript:void(0);" Initiatives 
+ HYPERLINK "https://sciforum.net" \t "_blank" Sciforum
+ HYPERLINK "https://www.mdpi.com/books" \t "_blank" MDPI Books
+ HYPERLINK "https://www.preprints.org" \t "_blank" Preprints
+ HYPERLINK "https://www.scilit.net" \t "_blank" Scilit
+ HYPERLINK "https://sciprofiles.com" \t "_blank" SciProfiles
+ HYPERLINK "https://encyclopedia.pub" \t "_blank" Encyclopedia
+ HYPERLINK "https://jams.pub" \t "_blank" JAMS
